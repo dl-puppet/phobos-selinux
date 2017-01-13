@@ -1,0 +1,2 @@
+# phobos-selinux
+Configuration SELINUX
